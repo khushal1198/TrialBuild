@@ -11,6 +11,7 @@ namespace ConsoleApp1
             Console.WriteLine("Datacore");
             Console.WriteLine("Datacore");
             Console.WriteLine("Datacore");
+			Console.WriteLine("newLine");
             Console.WriteLine("Khushal");
         }
     }
