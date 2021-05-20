@@ -6,7 +6,12 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World ! Chai Pilo");
+            Console.WriteLine("Hello World");
+            Console.WriteLine("Datacore");
+            Console.WriteLine("Datacore");
+            Console.WriteLine("Datacore");
+            Console.WriteLine("Datacore");
+            Console.WriteLine("Khushal");
         }
     }
 }
